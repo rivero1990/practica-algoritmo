@@ -1,41 +1,17 @@
- # algoritmo de como hacer un sandwich
+ # Algoritmo de como hacer un sandwich
 
- - inicio
+ 1. inicio
 
- - buscar un plato
+ 1. Dos rebanadas de pan
 
- - buscar el pan
+ 1. Ingredientes: 2 fetas de jamon , 2 fetas de queso cheddar, 1 hoja de lechuga y dos rodajas de tomate
 
- - tomar dos rebanadas de pan
+ 1. Mayonesa (15 gramos)
 
- - buscar la mayonesa
+1. Untar la mayonesa en las dos rebanadas de pan
 
- - buscar una cuchara
+1. Poner todos los ingredientes encima de una de las rebanadas de pan
 
- - buscar los ingredientes (jamón,tomate,cebolla,queso amarillo,palta a su gusto)
+1. Poner encima la otra rebanada de pan
 
- - lavar los ingredientes que lo necesitan
-
- - buscar un cuchillo
-
- - cortar los ingredientes
-
- - poner la mayonesa en las rebanadas de pan
-
- - primero poner el jamón
-
- - poner el queso amarillo
-
- - poner el tomate
-
- - poner la cebolla
-
- - poner la palta
-
- - y si gustan poner lechuga
-
- - tomar el plato y ponerlo debajo del sandwich
-
- - después tomar la segunda tapa de pan y ponerla encima de todo lo demás
-
- - fin
+1. Fin
